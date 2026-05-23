@@ -1,0 +1,3 @@
+# Ansible playbook that connects to a Cisco IOS router,
+# gathers facts using ios_facts, and prints the hostname
+# and OS version using the debug module.
